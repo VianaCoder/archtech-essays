@@ -58,7 +58,7 @@ archtech-essays/
 
 Software evolution follows complexity.
 
-When systems and organizations reach sufficient scale, architecture becomes less about control and more about **enabling emergence**.
+When systems and organizations reach sufficient scale, architecture becomes less about control and more about **enabling innovation**.
 
 ---
 
