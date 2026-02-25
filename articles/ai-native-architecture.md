@@ -16,7 +16,7 @@ A situação tem nome e sobrenome, agentes de código autônomos. Dessa forma, s
 	a. **Sistemas estruturantes:**
 	Todos aqueles que governam, viabilizam e sustentam os sistemas aplicacionais, como plataformas de gerenciamento de infraestrutura, sistemas de governança, monitoramento, deploys, features de segurança e gateways.
 	
-	a. **Sistemas aplicacionais:**
+	b. **Sistemas aplicacionais:**
 	Aplicações que entregam features a clientes internos e externos mas não sustentam nenhum estrutura ou definição tecnológica.
 
 2. **Platform Engineering: Sistemas produtizáveis e replicáveis**
