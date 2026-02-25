@@ -9,7 +9,7 @@ A situação tem nome e sobrenome, agentes de código autônomos. Dessa forma, s
 
 1. **Arquitetura como impulsionador de inovação**
 
-	Para se alcançar o avanço da inteligência artificial é preciso discutir como arquitetura está relacionada à forma como sua organização estará posicionada no a médio prazo, pois as tecnologias e situações aqui citadas já são realidade em algumas empresas. 
+	Para se alcançar o avanço da inteligência artificial é preciso discutir como arquitetura está relacionada à forma como sua organização estará posicionada a médio prazo, pois as tecnologias e situações aqui citadas já são realidade em algumas empresas. 
 	
 	O ideal é imaginar e segmentar a sua estrutura tecnológica em duas categorias de sistemas:
 	
