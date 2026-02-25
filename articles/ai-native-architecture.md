@@ -17,11 +17,11 @@ A situação tem nome e sobrenome, agentes de código autônomos. Dessa forma, s
 	Todos aqueles que governam, viabilizam e sustentam os sistemas aplicacionais, como plataformas de gerenciamento de infraestrutura, sistemas de governança, monitoramento, deploys, features de segurança e gateways.
 	
 	b. **Sistemas aplicacionais:**
-	Aplicações que entregam features a clientes internos e externos mas não sustentam nenhum estrutura ou definição tecnológica.
+	Aplicações que entregam features a clientes internos e externos mas não sustentam nenhuma estrutura ou definição tecnológica.
 
 2. **Platform Engineering: Sistemas produtizáveis e replicáveis**
 
-	A arquitetura empregada em cada sistema a ser criado pode ser um desafio, tanto pelo excesso de burocracia quanto à falta, pois no excesso, os desenvolvedores tendem a resistir aos processos para se acelerar o desenvolvimento, temendo depender de muitas camadas de arquitetura, pecando pela falta, criando sistemas sem padronização, sem planejamento de infraestrutura, segurança ou desenvolvimento.
+	A arquitetura empregada em cada sistema a ser criado pode ser um desafio, tanto pelo excesso de burocracia quanto a falta, pois no excesso, os desenvolvedores tendem a resistir aos processos para se acelerar o desenvolvimento, temendo depender de muitas camadas de arquitetura, pecando pela falta, criando sistemas sem padronização, sem planejamento de infraestrutura, segurança ou desenvolvimento.
 	
 	Sendo assim, uma das possíveis estratégias aplicáveis para construir sistemas dentro da arquitetura organizacional, mas sem muita burocracia é justamente produtizar a mesma, por exemplo, criando templates replicáveis para microsserviços de API REST em múltiplas linguagens, já com as dependências homologadas que o seu desenvolvedor pode precisar, ambientes configurados, repositórios estruturados, pipelines e controle de governança.
 
@@ -31,17 +31,17 @@ A situação tem nome e sobrenome, agentes de código autônomos. Dessa forma, s
 	
 	Pensando no próprio exemplo que apresentei de templates de microsserviços, podemos criar arquivos de instruções para os agentes, atualmente, já existem alguns padrões começando a ser seguidos no mercado, como o `agents.md`, `.github/copilot-instructions.md` ou `.instructions.md`
 	
-	Irei aprofundar sobre cada um deles em um artigo posterior, porém, todos eles são usados para criar instruções a serem consumidas pelas IAs ao interagir com aquele repositório, logo se enviesa a forma como o agente irá reagir ao prompt do desenvolvedor de maneira específica para esse microsserviço, basicamente um "RAG injetado".
+	Irei aprofundar sobre cada um deles em um artigo posterior, porém, todos eles são usados para criar instruções a serem consumidas pelas IAs ao interagir com aquele repositório, logo se enviesa-se a forma como o agente irá reagir ao prompt do desenvolvedor de maneira específica para esse microsserviço, basicamente um "RAG injetado".
 
 4. **Engenharia de software como pilar de inovação**
 
 	A cultura de startup na última década devido a necessidade de "errar rápido e corrigir rápido" afrontou e revolucionou de maneira brusca as mais variadas teorias e modelos de engenharia de software, como Cascata, Espiral e Desenvolvimento Ágil, e não ironicamente, isso de certa forma já era previsto pela Lei de Conway que propõe que os “Sistemas refletem a estrutura de comunicação das organizações que os constroem” conforme proposto por Conway em _How Do Committees Invent?_ (1968)
 	
-	Porém, isso trouxe benefícios e malefícios dos mais variados, como alta agilidade de desenvolvimento mas também um certo preconceito com arquitetura justamente por entender que ela é uma área concorrente e um empecilho para as áreas de produto que regem a inovação em muitas empresas de tecnologia.
+	Porém, isso trouxe benefícios e malefícios dos mais variados como a alta agilidade de desenvolvimento, mas também um certo preconceito com arquitetura justamente por entender que ela é uma área concorrente e um empecilho para as áreas de produto que regem a inovação em muitas empresas de tecnologia.
 	
 	Entretanto, com a atual capacidade da inteligência artificial, podemos revisitar a engenharia de software, justamente vendo as organizações como "Sistemas Complexos Adaptativos" pois agora mais do que nunca antes visto, os projetos serão como seres vivos que evoluem e se adaptam, mas que podem seguir regras dadas por nós e cabe a arquitetura definir essas regras, limites para não cairmos além da "borda do caos".
 
 
-Os 4 pontos citados não são apenas colocações individualizadas, elas são apenas um composto de algo maior, AI Native, que definiu novos arquétipos profissionais na fase que iniciamos da engenharia de software, muitos já conhecidos: Platform Engineer, Cloud Architect, Data Engineer e entre outros específicos pois o trabalho da engenharia deixa de ser escrever software e passa a definir sistemas capazes de produzir software.
+Os 4 pontos citados não são apenas colocações individualizadas, elas são apenas um composto de algo maior, AI Native, que definiu novos arquétipos profissionais na fase que iniciamos da engenharia de software, muitos já conhecidos: Platform Engineer, Cloud Architect, Data Engineer e entre outros específicos, pois o trabalho da engenharia deixa de ser escrever software e passa a definir sistemas capazes de produzir software.
 
 Como na biologia, na arquitetura AI Native há uma evolução natural da forma de produzir sistemas. Antes, soluções surgiam como células isoladas de código, orientadas por requisitos funcionais e restrições técnicas específicas. Agora, a plataformização passa a se comportar como um organismo multicelular, capaz de reorganizar suas próprias estruturas para transformar ideias em produtos.
