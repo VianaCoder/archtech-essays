@@ -8,6 +8,9 @@ This repository is a collection of long-form technical reflections exploring how
 
 ## 📄 First Essay — Arquitetura AI Native
 
+👉 **Read the article:**
+[AI-Native Architecture](articles/ai-native-architecture.md)
+
 **Arquitetura AI Native** discusses a structural shift happening in modern software engineering:
 
 > Engineering work is moving from *writing software* to *designing systems capable of producing software*.
@@ -39,26 +42,15 @@ Architecture stops being documentation about software and becomes the **environm
 
 ---
 
-### Sections
+### Repository Structure
 
-1. Architecture as an Innovation Driver
-2. Platform Engineering: Productizable and Replicable Systems
-3. AI as a User
-4. Software Engineering as a Pillar of Innovation
-
----
-
-### Why this repository exists
-
-This project aims to document ideas at the intersection of:
-
-* Software Architecture
-* Platform Engineering
-* AI-Native Development
-* Systems Thinking
-* Organizational Design in Engineering
-
-The goal is to create essays that engineers reference in discussions about **how software is built at scale**.
+```
+archtech-essays/
+├── README.md
+├── LICENSE
+└── articles/
+    └── ai-native-architecture.md
+```
 
 ---
 
@@ -81,4 +73,3 @@ You are free to share and adapt the material with proper attribution.
 ## ✍️ Author
 
 Engineering essays exploring architecture beyond code.
-
