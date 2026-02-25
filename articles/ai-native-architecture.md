@@ -39,7 +39,7 @@ A situação tem nome e sobrenome, agentes de código autônomos. Dessa forma, s
 	
 	Porém, isso trouxe benefícios e malefícios dos mais variados como a alta agilidade de desenvolvimento, mas também um certo preconceito com arquitetura justamente por entender que ela é uma área concorrente e um empecilho para as áreas de produto que regem a inovação em muitas empresas de tecnologia.
 	
-	Entretanto, com a atual capacidade da inteligência artificial, podemos revisitar a engenharia de software, justamente vendo as organizações como "Sistemas Complexos Adaptativos" pois agora mais do que nunca antes visto, os projetos serão como seres vivos que evoluem e se adaptam, mas que podem seguir regras dadas por nós e cabe a arquitetura definir essas regras, limites para não cairmos além da "borda do caos".
+	Entretanto, com a atual capacidade da inteligência artificial, podemos revisitar a engenharia de software, justamente vendo as organizações como "Sistemas Complexos Adaptativos", pois agora mais do que nunca antes visto, os projetos serão como seres vivos que evoluem e se adaptam, mas que podem seguir regras dadas por nós e cabe a arquitetura definir essas regras, limites para não cairmos além da "borda do caos".
 
 
 Os 4 pontos citados não são apenas colocações individualizadas, elas são apenas um composto de algo maior, AI Native, que definiu novos arquétipos profissionais na fase que iniciamos da engenharia de software, muitos já conhecidos: Platform Engineer, Cloud Architect, Data Engineer e entre outros específicos, pois o trabalho da engenharia deixa de ser escrever software e passa a definir sistemas capazes de produzir software.
